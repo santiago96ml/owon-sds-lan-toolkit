@@ -1,0 +1,3 @@
+# Optional: only required for PNG plot generation and live viewer window.
+# Pure CSV waveform capture and SCPI protocol parsing use Python stdlib only.
+matplotlib>=3.8.0
